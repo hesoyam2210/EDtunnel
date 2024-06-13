@@ -31,6 +31,15 @@ custom_domain = true
 [[routes]]
 pattern = "ava.game.naver.com.indo.hesoyam.my.id"
 custom_domain = true
+[[routes]]
+pattern = "blog.webex.com.indo.hesoyam.my.id"
+custom_domain = true
+[[routes]]
+pattern = "support.zoom.us.indo.hesoyam.my.id"
+custom_domain = true
+[[routes]]
+pattern = "classroom.google.com.indo.hesoyam.my.id"
+custom_domain = true
 
 [vars]
 # UUID = "d342d11e-d424-4583-b36e-524ab1f0afa4"
